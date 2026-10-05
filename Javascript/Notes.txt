@@ -1,0 +1,60 @@
+Javascript:
+----------
+    ->Javascript is the scripting language as well as programming language
+    ->js is Dynamically typed programming
+    ->Js having single Call stack
+    ->it has only interpreter not containing compiler
+    Uses:
+        ->using Js we can build dynamic web applications
+        ->we can add functionalities to web pages
+        -> here we can acheive DOM(Document Object Maodel) functionalities
+        ->we can Manipulate HTML and CSS
+        ->we can fetch data from server(API's) and also send data to server(API)
+history:
+mocha-1995 - net scope (browser company)
+live script-1995
+javascript
+ECMA->added new features->release 1st version->ES1(ECMA script version1)
+     stable version ->ES6
+     present version -ES16
+Implements:
+    1. Inline Js
+    2. Internal Js
+    3. External Js
+
+
+===== write a 15 browser names and respective javascript engine names
+===== list the depricated key words-5
+
+
+Tokens:
+-------
+    ->tokens are the smallest units in js code
+    types:
+        Identifiers
+            -> 
+        keywords
+        Literals
+        operators
+        seperators
+        comments ->//, /*   */
+
+Data types:
+-----------
+    ->Primitive-immutable
+        1. number
+        2. storing
+        3. boolean
+        4. null - bug in Js
+        5. undefine
+        6. symbol
+        7. bigint
+
+    ->Non primitive
+        1.Arrays
+            ->linear data structure used to store collection of homogenous or heterogenous data
+            
+        2.Object
+        3.function
+
+

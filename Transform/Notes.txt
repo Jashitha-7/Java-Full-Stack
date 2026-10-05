@@ -1,0 +1,18 @@
+css tranform:
+------------
+    Used to apply 2D & 3D transformations to an element.
+    rotate transform:rotate(45deg);
+    ->scale:
+        tranform:scale(2);
+        tranform:scale(0.5);
+        tranform:scale(2,3);
+        tranform:scaleX(0.5);
+        tranform:scaleY(0.5);
+    ->translate:
+        tranform:translate(30px);
+        tranform:translate(30px,40px);
+        tranform:translateX(30px);
+        tranform:translateY(30px);
+    ->skew:
+        tranform:skew(30deg);
+        
